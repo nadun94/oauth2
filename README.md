@@ -10,3 +10,6 @@ Project setup
  How to run the project (developer build)
   - Go to server directory and run npm start
   - Go to client directory and run node server.js
+
+Change configurations
+  - change google secret, api key, jwt secret from the config.js in ther server direcory
